@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    background-color: antiquewhite;
+}
+
+.main{
+    background-color: white;
+    width: 65%;
+    margin: auto;
+}
+
+img{
+    width:350px;
+}
