@@ -10,6 +10,7 @@ body {
 }
 
 .container {
+    display: flex;
     font-size: 0;
 }
 
@@ -39,6 +40,11 @@ body {
 img {
     height: 100%;
     width: 100%;
+}
+
+.box1{
+    display: flex;
+    flex-direction: column;
 }
 
 .box2{
