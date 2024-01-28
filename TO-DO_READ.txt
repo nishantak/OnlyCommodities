@@ -1,0 +1,24 @@
+FRONT END: -
+    - Make website look better, email password input field look better like 
+    white screenshot
+
+    - Add Website name and logo do branding
+
+    - Design other pages: home, dashboard / portfolio, specific cmmodity page
+
+
+PRICE-PREDICTION: -
+    - Make a mathematical statistical analysis model to predict future prices
+    
+    - Write script to fetch all news online related to commodities given as keywords
+
+    - Make ML model using NLTK for sentiment analysis of commodity related news to predict 
+    hot commodities whose price could rise and whose could fall
+
+    - Combine statistical analysis result and sentiment analysis model to give out price prediction
+    
+
+BACK END:-
+    - MAKE BACK-END
+    - Server side script for frontend
+    - Result from PRICE-PREDICTION to display on website
