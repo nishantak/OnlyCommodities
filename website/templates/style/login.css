@@ -8,7 +8,7 @@ body{
 }
 
 .container{
-    margin: 5%;
+    margin-left: 5%; margin-right: 5%;
     display: flex;
     justify-content: space-evenly;
 }
@@ -17,8 +17,8 @@ body{
     height: 500px;
     width: 60%;
     padding: 5%;
-    margin-top: 70px;
-    box-shadow: 0 0 10px rgb(147, 117, 199,0.5);
+    margin-top: 6%;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);  
 }
 
 .box1{
@@ -44,6 +44,7 @@ body{
 }
 
 .text {
+    color: #ffffff;
     display: flex;
     justify-content: center;
     margin-top: 3%;
@@ -54,15 +55,16 @@ img {
     width: 100%;
 }
 
-a{
+a{  
+    padding-left: 3px;
     font-size: medium;
-    color: #dfdcee;
+    color: #c4ecff;
     text-decoration: none;
 }
 
 a:hover{
     text-decoration: underline;
-    color: #c4baf9;
+    color: #63e7fe;
 }
 
 label{
@@ -76,7 +78,7 @@ h1{
 
 button{
     margin-top: 4%;
-    background-color: #958bce;
+    background-color: #7666cf;
     color: #ffffff;
     padding: 12px 18px;
     border: none;
@@ -85,12 +87,8 @@ button{
 }
 
 button:hover{
-    background-color: #7766d5;
+    background-color: #705ce0;
 }
-
-a{
-    padding-left: 3px;
-}   
 
 input{
     width: 95%;
